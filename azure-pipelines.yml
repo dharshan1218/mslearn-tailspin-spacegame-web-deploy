@@ -170,7 +170,7 @@ stages:
 
             inputs:
 
-              azureSubscription: 'Resource-Manager-Tejaswi-TailSpin - SpaceGame'
+              azureSubscription: 'Resource Manager - Tailspin - Space Game'
 
               appName: '$(WebAppName)'
 
